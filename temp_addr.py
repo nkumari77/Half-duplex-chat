@@ -4,3 +4,7 @@ x = 5
 y = 3
 print(x-y)
 print("exit")
+
+x=33
+y=55
+print("x+y")
